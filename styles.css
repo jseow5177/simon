@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+  font-family: "Press Start 2P", cursive;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 180px;
+  width: 180px;
+  border: 10px solid black;
+  border-radius: 20%;
+  cursor: pointer;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+/* Instruction page */
+.play-method li {
+  color: #FFF;
+  line-height: 2.5;
+  text-align: left;
+  font-family: "Londrina", cursive;
+  font-size: 1.1rem;
+  line-height: 3;
+}
+
+/* Home page */
+
+#level-title {
+  color: #FEF2BF;
+  font-size: 2rem;
+  margin: 5% 5% 2%;
+  line-height: 1.5;
+}
+
+.instruction {
+  color: #FFF;
+  margin-top: 10rem;
+}
+
+.how-to {
+  margin-top: 10rem;
+}
+
+.how-to a {
+  color: #FFF;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.how-to a:hover {
+  color: #FEF2BF;
+}
