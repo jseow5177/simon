@@ -8,6 +8,8 @@ The Simon Game is an electronic memory game invented in 1978. To play this game,
 
 This website allows user to play the Simon Game online. Further instructions on how to play the game are available in the website.
 
+Are you ready? Let's beat Simon <a href="https://jseow5177.github.io/Simon/">now</a>!
+
 Technologies used:
 <ul>
   <li>HTML</li>
